@@ -9,7 +9,6 @@ export default defineConfig({
     alias: {
       '@': path.resolve(__dirname, './src'),
       '@fimo/ui': path.resolve(__dirname, './src/lib/fimo-ui.tsx'),
-      '@/components/ui': path.resolve(__dirname, './src/components/UI'),
     },
   },
 });

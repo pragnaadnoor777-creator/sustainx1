@@ -20,7 +20,6 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"],
-      "@/components/ui/*": ["./src/components/UI/*"],
       "@fimo/ui": ["./src/lib/fimo-ui.tsx"]
     }
   },
